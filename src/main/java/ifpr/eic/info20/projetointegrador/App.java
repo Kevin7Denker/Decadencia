@@ -14,7 +14,6 @@ import ifpr.eic.info20.projetointegrador.Repositorio.RepCompra;
 import ifpr.eic.info20.projetointegrador.Telas.Home;
 
 
-k
 public class App extends Application {
     
     private Aeroporto aeroporto;
